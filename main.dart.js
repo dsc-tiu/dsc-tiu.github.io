@@ -5230,7 +5230,7 @@ p=H.b(p,[q])
 o=P.j
 n=[{func:1,ret:-1,args:[P.aa]}]
 new N.IK(m,u,!0,0,new P.bm(new P.N(s,[t]),[t]),!1,m,m,m,m,m,m,new N.MV(P.aW({func:1,ret:-1})),r,m,N.ZA(),new Y.zP(N.Zz(),p,[q]),!1,0,P.x(o,N.hn),P.aJ(o),H.b([],n),H.b([],n),m,!1,C.br,!0,!1,m,C.H,C.H,m,0,m,!1,m,P.oQ(m,F.b2),new O.DU(P.x(o,[P.S,{func:1,ret:-1,args:[F.b2]},E.al]),P.x({func:1,ret:-1,args:[F.b2]},E.al)),new D.zo(P.x(o,D.iN)),new G.DY(),P.x(o,O.k1)).Bc()}u=$.aP
-u.ys(new S.oU(l,"/event-screen",!1,m))
+u.ys(new S.oU(l,"/",!1,m))
 u.yw()
 return},
 Ol:function Ol(){},
