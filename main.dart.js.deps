@@ -21,6 +21,7 @@ file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/draggable_scrollbar-0.0.4/lib/draggable_scrollbar.dart
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_staggered_grid_view-0.3.0/lib/flutter_staggered_grid_view.dart
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_staggered_grid_view-0.3.0/lib/src/rendering/sliver_staggered_grid.dart
 file:///C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_staggered_grid_view-0.3.0/lib/src/rendering/sliver_variable_size_box_adaptor.dart
@@ -708,6 +709,8 @@ file:///E:/DSC%20things/dsc_tiu_web/lib/screens/splash_screen.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/screens/team_member_screen.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/screens/team_member_section.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/tools/app_bar_button_model.dart
+file:///E:/DSC%20things/dsc_tiu_web/lib/tools/home_app_bar.dart
+file:///E:/DSC%20things/dsc_tiu_web/lib/tools/social_media_button.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/tools/team_member_model.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/tools/track_button.dart
 file:///E:/DSC%20things/dsc_tiu_web/lib/tools/web_app_bar.dart
