@@ -6146,7 +6146,7 @@ p=H.c(p,[q])
 o=P.l
 n=[{func:1,ret:-1,args:[P.ai]}]
 new N.M2(m,u,!0,new P.bu(new P.R(s,[t]),[t]),!1,m,m,m,m,0,!1,m,m,new N.QM(P.bk({func:1,ret:-1})),r,m,N.a3W(),new Y.Cj(N.a3V(),p,[q]),!1,0,P.A(o,N.iK),P.bR(o),H.c([],n),H.c([],n),m,!1,C.bx,!0,!1,m,C.H,C.H,m,0,m,!1,m,P.qB(m,F.bl),new O.GI(P.A(o,[P.S,{func:1,ret:-1,args:[F.bl]},E.am]),P.A({func:1,ret:-1,args:[F.bl]},E.am)),new D.BS(P.A(o,D.kq)),new G.GM(),P.A(o,O.lC)).Dq()}u=$.bm
-u.Ao(new S.qH(l,"/",!1,m))
+u.Ao(new S.qH(l,"/splash-screen",!1,m))
 u.tn()
 return},
 Ss:function Ss(){},
