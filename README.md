@@ -5,4 +5,3 @@
 
 <img src = "https://user-images.githubusercontent.com/30453784/71300703-5f20d600-23bd-11ea-9ad2-42b259c69a94.png">
 
-## This repo is not for fork and send pull request.  cheeres, Happy Coding.  
